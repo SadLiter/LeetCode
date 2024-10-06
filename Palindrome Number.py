@@ -6,5 +6,3 @@ def isPalindrome(num):
         num //= 10
 
     return res == answer
-
-print(isPalindrome(121))
